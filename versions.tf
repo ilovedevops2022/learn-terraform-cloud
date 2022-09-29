@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "hashicorp-learn"
+    organization = "hashicorp-learn-new"
 
     workspaces {
       name = "learn-terraform-cloud"
